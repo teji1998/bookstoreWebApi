@@ -35,6 +35,7 @@ namespace BookStroreWebAPI.Controllers
                 var claims = HttpContext.User.Claims.ToList();
                 var email = claims[0].ToString().Split("emailaddress:");
                 cart.loginUser = email[1].Trim();
+                cart.quantityToBuy = 1;
                 
                 if (this.cartBL.AddCart(cart))
                 {
