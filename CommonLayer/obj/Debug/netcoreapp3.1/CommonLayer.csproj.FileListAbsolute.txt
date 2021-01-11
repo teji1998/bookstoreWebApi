@@ -19,7 +19,6 @@ C:\Users\PRITHVIL5\Desktop\bookstoreAppApi\BookStore_WebAPI-master\CommonLayer\b
 C:\Users\PRITHVIL5\Desktop\bookstoreAppApi\BookStore_WebAPI-master\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
 C:\Users\PRITHVIL5\Desktop\bookstoreAppApi\BookStore_WebAPI-master\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
 C:\Users\PRITHVIL5\Desktop\bookstoreAppApi\BookStore_WebAPI-master\CommonLayer\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
-C:\Users\PRITHVIL5\Desktop\bookstoreAppApi\BookStore_WebAPI-master\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csprojAssemblyReference.cache
 C:\Users\PRITHVIL5\Desktop\bookstoreAppApi\BookStore_WebAPI-master\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
 C:\Users\PRITHVIL5\Desktop\bookstoreAppApi\BookStore_WebAPI-master\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
 C:\Users\PRITHVIL5\Desktop\bookstoreAppApi\BookStore_WebAPI-master\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
