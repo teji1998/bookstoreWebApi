@@ -9,6 +9,8 @@ namespace CommonLayer.Models
 {
     public class Product
     {
+        public bool addedToCart;
+
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int product_id { get; set; }

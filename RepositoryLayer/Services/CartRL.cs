@@ -141,7 +141,7 @@ namespace RepositoryLayer.Services
                                                  ).FirstOrDefault();
                 if(cart.quantityToBuy>0)
                 {
-                    cartItem.quantityToBuy = cart.quantityToBuy;
+                    cartItem.quantityToBuy = cart.quantityToBuy ;
                     int result = this.context.SaveChanges();
                     if (result > 0)
                     {
